@@ -1,18 +1,26 @@
 # Project 5: Face Generation
 
-## Introduction 
+## Introduction
+
 In this project, you'll use generative adversarial networks (GAN)to generate new images of faces.
 
-## To do: 
+## To do
 
-adsklsaj
+- model_inputs
+- discriminator
+- generator
+- model_loss
+- model_opt
+- show_generator_output
+- train
 
+- RUN: MNIST  dataset
+- RUN: CelebA dataset
 
-## Results 
+## Results
 
-adhaskl
-
+results...
 
 ## Feedback
 
-asdkljaslk
+feedback...
