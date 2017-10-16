@@ -24,7 +24,8 @@ In this project, you'll use generative adversarial networks (GAN)to generate new
 <img width="400px" src="./assets/R1_Faces.JPG">
 
 ### v1 
-
+<img width="400px" src="./assets/R2_MNIST.JPG">
+<img width="400px" src="./assets/R2_Faces.JPG">
 
 ## Feedback
 
